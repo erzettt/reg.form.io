@@ -1,0 +1,101 @@
+/* FONTS */
+
+
+
+/* REGISTRATION FORM */
+
+.zeform h1 {
+    margin-right: 90px;
+    margin-bottom: 20px;
+    margin-left: 600px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.zeform h3 {
+    margin-left: 420px;
+    margin-bottom: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.zeform {
+    text-align: center;
+    padding-top: 30px;
+    background: url(form1.jpg);
+    width: 1100px;
+    height: 550px;
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 9px;
+}
+
+input[type=text] {
+    width: 30%;
+    height: 35px;
+    margin-left: 600px;
+    border-color: black;
+    border-width: 1px;
+    background: white;
+    border-radius: 15px;
+    font-family: 'Roboto', sans-serif;
+}
+
+input[type=password] {
+    width: 30%;
+    height: 35px;
+    margin-left: 600px;
+    border-color: black;
+    border-width: 1px;
+    background: white;
+    border-radius: 15px;
+    font-family: 'Roboto', sans-serif;
+}
+
+p {
+    margin-left: 600px;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* terms and agreemnt */
+
+label {
+    font-family: 'Roboto', sans-serif;
+}
+
+input[type=checkbox] {
+    margin-left: 600px;
+}
+
+
+/* BUTTON */
+
+button {
+    height: 40px;
+    width: 150px;
+    margin-left: 600px;
+    margin-bottom: 40px;
+    border-radius: 9px;
+    background: #410D9B;
+    font-size: medium;
+}
+
+a {
+    color: black;
+}
+
+/* BODY SECTION */
+
+body {
+    background-image: url(https://images.wallpapersden.com/image/download/abstract-gradient-hd-shapes_bWVlbWmUmZqaraWkpJRnamtlrWZpaWU.jpg);
+}
+
+/* FOOTER */
+
+.footer {
+    font-size: small;
+    color: white;
+    margin-top: 1290px;
+    margin-right: 500px;
+    text-align: center;
+}
